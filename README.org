@@ -4,6 +4,6 @@ Common Lisp LAS library
 
 |---------+---------------------------------------|
 | source  | git:https://github.com/mgi/cl-las.git |
-| commit  | 8135f76                               |
+| commit  | dd97cd0                               |
 | systems | cl-las                                |
 |---------+---------------------------------------|
